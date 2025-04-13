@@ -18,10 +18,9 @@
 + Descripción: Es una plataforma peruana de turismo especializada en experiencias auténticas y actividades de aventura, tanto en destinos naturales de Perú como en algunos internacionales seleccionados.
 + Link: https://www.aventurate.pe
 
-
-
-
 ### 2.1.1. Análisis Competitivo
+En este apartado, analizaremos las fortalezas, debilidades, oportunidades y amenazas (SWOT) de nuestros principales competidores: Viator, GetYourGuide y Aventúrate.pe. Esto nos permitirá identificar áreas en las que nuestro proyecto puede destacar y oportunidades de mejora en el mercado.
+
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
 ### 2.2.1. Diseño de entrevistas
