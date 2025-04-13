@@ -1,6 +1,8 @@
 # Capítulo 2: Requirements Eliciation & Analysis
 ## 2.1. Competidores
-Viator
+| Viator  |  ![image](https://github.com/user-attachments/assets/6ac6e6bb-442b-47f0-af29-64ad574d4bd0)
+  | 
++ Ubicacion: Global
 
 ### 2.1.1. Análisis Competitivo
 ### 2.1.2. Estrategias y tácticas frente a competidores
