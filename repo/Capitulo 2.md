@@ -2,13 +2,15 @@
 ## 2.1. Competidores
  ### Viator
  ![imagen_2025-04-13_134337656](https://github.com/user-attachments/assets/e0cbc5dd-176a-4baf-b009-318eacdf696d)
-+ Ubicacion: Global
++ Ubicación: Global
 + Descripción: Plataforma internacional que permite crear y reservar tours, actividades y experiencias de viaje.
 + Link: https://www.viator.com
 
  ### GetYourGuide
 ![imagen_2025-04-13_140029602](https://github.com/user-attachments/assets/a3249300-ee06-48e9-99ed-6738f44e34e5)
-
++ Ubicación: Global
++ Descripción: Plataforma internacional que ofrece una amplia gama de experiencias, viajes y actividades para viajeros en un solo lugar. Permite al usuario elegir y reservar una actividad en cualquier destino turístico del mundo con total facilidad.
++ Link: https://www.getyourguide.es
 
 
 
