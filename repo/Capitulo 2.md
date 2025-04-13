@@ -7,7 +7,8 @@
 + Link: https://www.viator.com
 
  ### GetYourGuide
-![imagen_2025-04-13_135829414 (1)](https://github.com/user-attachments/assets/e9ba6eaf-f70f-408b-8a50-ff91779f0532)
+![image](https://github.com/user-attachments/assets/a59396f0-6bbe-4c39-9e8e-8a11bb1dbbbb)
+
 
 
 
