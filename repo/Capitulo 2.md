@@ -3,6 +3,8 @@
  ### Viator
  ![imagen_2025-04-13_134337656](https://github.com/user-attachments/assets/e0cbc5dd-176a-4baf-b009-318eacdf696d)
 + Ubicacion: Global
++ Descripción: Plataforma que permite crear y reservar tours, actividades y experiencias de viaje.
++ Link: (https://www.viator.com)
 
 ### 2.1.1. Análisis Competitivo
 ### 2.1.2. Estrategias y tácticas frente a competidores
