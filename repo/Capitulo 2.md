@@ -14,7 +14,9 @@
 
 ### Aventúrate.pe
 ![imagen_2025-04-13_141553921](https://github.com/user-attachments/assets/45567ef8-fbaa-42cc-9845-984bd2610666)
-
++ Ubicación: Perú
++ Descripción: Es una plataforma peruana de turismo especializada en experiencias auténticas y actividades de aventura, tanto en destinos naturales de Perú como en algunos internacionales seleccionados.
++ Link: https://www.aventurate.pe
 
 
 
