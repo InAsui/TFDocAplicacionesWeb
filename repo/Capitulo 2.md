@@ -6,6 +6,8 @@
 + Descripción: Plataforma que permite crear y reservar tours, actividades y experiencias de viaje.
 + Link: https://www.viator.com
 
+ ### GetYourGuide
+
 ### 2.1.1. Análisis Competitivo
 ### 2.1.2. Estrategias y tácticas frente a competidores
 ## 2.2. Entrevistas
