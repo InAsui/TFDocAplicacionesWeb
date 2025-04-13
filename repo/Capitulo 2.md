@@ -7,7 +7,8 @@
 + Link: https://www.viator.com
 
  ### GetYourGuide
- ![imagen_2025-04-13_135829414](https://github.com/user-attachments/assets/de83ac2d-509f-4472-9e95-0193e7e3b8a3)
+![imagen_2025-04-13_135829414 (1)](https://github.com/user-attachments/assets/e9ba6eaf-f70f-408b-8a50-ff91779f0532)
+
 
 
 ### 2.1.1. Análisis Competitivo
