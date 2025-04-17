@@ -120,6 +120,7 @@ Hemos observado un factor crítico que afecta tanto a viajeros como a agencias l
   **Cuando veamos** un aumento del 30% en las reservas de agencias con al menos 10 reseñas positivas durante el primer trimestre de uso.
 
 #### 1.2.2.4. Lean UX Canvas
+![image](https://github.com/user-attachments/assets/2999bae6-365e-49e4-8653-9914a9eb6795)
 
 ## 1.3. Segmentos Objetivos
 **Segmento #1: Turistas** <br>
